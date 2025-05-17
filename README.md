@@ -18,7 +18,7 @@ A powerful, clean, and functional `.zshrc` configuration tailored for Arch Linux
 
 ## 📸 Preview
 
-![Screenshot](screenshots/preview.png)
+![Screenshot](https://github.com/user-attachments/assets/b8f75374-9aac-4c04-8fd7-3306664195f4)
 
 ## 🧰 Requirements
 
